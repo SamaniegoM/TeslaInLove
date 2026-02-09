@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\source\\teslainlove\\teslainlove.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\intermediate\\build\\win64\\x64\\teslainloveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\teslainlove\\definitions.teslainlove.h",
+            "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\source\\teslainlove\\teslainlove.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

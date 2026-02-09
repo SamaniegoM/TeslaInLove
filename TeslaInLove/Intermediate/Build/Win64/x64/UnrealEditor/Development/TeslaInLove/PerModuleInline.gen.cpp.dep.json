@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\teslainlove\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\intermediate\\build\\win64\\x64\\teslainloveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dvsam\\desktop\\uni\\motor\\teslainlove\\teslainlove\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\teslainlove\\definitions.teslainlove.h",
+            "d:\\epic_games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

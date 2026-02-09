@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TeslaInLove",
+			"Path": "..\\Source\\TeslaInLove.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TeslaInLoveEditor",
+			"Path": "..\\Source\\TeslaInLoveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
