@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class TeslaInLoveEditorTarget : TargetRules
 {
-	public TeslaInLoveEditorTarget( TargetInfo Target) : base(Target)
+	public TeslaInLoveEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V6;
